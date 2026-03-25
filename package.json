@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Test repo with JS and Python vulnerabilities",
   "dependencies": {
-    "lodash": "4.17.15",
-    "axios": "0.21.0",
-    "express": "4.16.0"
+    "lodash": "4.17.23",
+    "axios": "1.13.6",
+    "express": "5.2.1"
   }
 }
